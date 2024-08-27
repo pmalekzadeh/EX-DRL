@@ -20,7 +20,15 @@ EX-D4PG Codebase
 
 └───run_configs
 │   └───agents
-    │   │    d4pg.cfg- EX-DRL Configuration
+    │   │    d4pg.cfg- EX-D4PG Configuration
 ```
 
+## Paper Citation:
+```
+@article{malekzadeh2024ex,
+  title={EX-DRL: Hedging Against Heavy Losses with EXtreme Distributional Reinforcement Learning},
+  author={Malekzadeh, Parvin and Poulos, Zissis and Chen, Jacky and Wang, Zeyu and Plataniotis, Konstantinos N},
+  journal={arXiv preprint arXiv:2408.12446},
+  year={2024}
+}
 
