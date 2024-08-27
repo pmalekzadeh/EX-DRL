@@ -16,7 +16,6 @@ EX-D4PG Codebase
 └───env
 │   │   trade_env.py - Trading Environment
 │   │   test_trade_env.py - Test Trading Environment
-│   │   utils.py - Stochastic Processes generation and other utility functions
 
 └───run_configs
 │   └───agents
